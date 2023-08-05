@@ -43,15 +43,37 @@ function renderLicenseSection(license) {
 export function generateMarkdown(response) {
   return `${renderLicenseBadge(response.license)}
 
+# Title
+
 #${response.title}
 
-## Table of Contents
-*[Description](#description)
+# Table of Contents
+* [Description](#Description)
+* [Installation](#Installation)
+* [Usage](#-Usage)
+* [Contributing](#-Contributing)
+* [Test](#-Test)
 ${renderLicenseLink(response.license)}
 
 
-## Description
+# Description
 ${response.description}
+
+# Installation
+${response.installation}
+
+# Usage
+${response.usage}
+
+# Contributing
+${response.contributing}
+
+# Test 
+${response.test}
+
+# Contact Information
+* Github Username: ${response.userName}
+* Contact Email: ${response.userEmail}
 
 
 
