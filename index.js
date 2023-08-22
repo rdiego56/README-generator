@@ -22,6 +22,11 @@ inquirer.prompt([
     },
     {
         type : "input",
+        name : "installation",
+        message : "What is the installation"
+    },
+    {
+        type : "input",
         name : "usage",
         message : "How do you plan to use this project in the near future", 
     },
@@ -43,12 +48,12 @@ inquirer.prompt([
     },
     {
         type : "input",
-        name : "github username",
-        message : "Please inout your git hub username", 
+        name : "userName",
+        message : "Please input your git hub username", 
     },
     {
         type : "input",
-        name : "email",
+        name : "userEmail",
         message : "Optional if you would like to put in your email", 
     },
 
