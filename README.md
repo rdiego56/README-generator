@@ -1,35 +1,12 @@
 # README-generator
-![Badge Link](https://img.shields.io/badge/license-GNU-blue)  
+The point of this assignment was to create a readme generator that can be used for future times
+![Read me screenshot](https://github.com/rdiego56/README-generator/assets/128023854/2286ae4e-a878-4f9b-aae9-114e4224d011)
 
-Title
+* When I open the command line and run the node index I am then prompted with a series of questions.
+* These questions that you follow through will lead to the development of your readme.
+* It will ask you to input a title description, installation, usage, contribution, test, and contact info.
+* After all that is done it will spit out a generated read-me that you are able to use when you want
 
-#Read me generater
+  [GitHubRepo](https://github.com/rdiego56/README-generator)
 
-## Table of Contents
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contribution](#contribution)
-* [Test](#test)
-* [License](#license)
-* [Contact](#Contact)
-
-
-## Description
-The point of this project is to be able to create a fully functioning read me generater
-
-## Installation
-The things that are needed to run the project and to start it is to run node index but before we need to run npm i and download the required packages needed for the project
-
-## Usage
-I plan to use this in the near future to develope more read mes for projects or assignments
-
-## Contribution
-How people can contribute is by developing more to make it more cleaner and better
-
-## Test 
-The way I plan to test my project is running node index and trying many readme generators until I get the best one
-
-# Contact Information
-* Github Name: rdiego56
-* Contact Email: n/a
+  [GitHubProfile](https://github.com/rdiego56)
